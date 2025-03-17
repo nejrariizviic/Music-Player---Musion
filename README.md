@@ -59,7 +59,12 @@ The Musion project design is available on Figma, allowing easy exploration of it
 - Mobile App Preview – showcasing the user experience on smartphones and tablets.
 - Web App Preview – demonstrating the desktop music player interface.
 
-🔗 **[Figma Prototype Link]** (Insert Link Here)
+ ### Desktop prototype
+[🔗 Desktop prototype link](https://www.figma.com/design/HAxltryMQjdD4jJvBHCMpy/NejraRizvi%C4%87_Zadaca4?node-id=0-1&p=f&t=9V2jWnzVV2BLHHsT-0)
+
+### Mobile application
+[🔗 Mobile prototype link](https://www.figma.com/design/oMF2Az05wglQ1R0gisKdBo/Wireframe?node-id=0-1&p=f&t=ERPZ0MPHLYILgb8H-0)
+
 
 ## Future Improvements
 Musion serves as a foundation for continuous improvements. Planned enhancements include:
