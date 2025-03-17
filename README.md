@@ -28,12 +28,12 @@ The UI/UX design of Musion was meticulously crafted in Figma, following modern d
 - Cross-Platform Optimization – ensuring a smooth experience on both mobile and desktop devices.
 
 ## Key Features
-### Core Features:
-- Easy Playlist Creation & Organization – Users can create, edit, and manage playlists effortlessly.
-- Music Search & Filtering – Advanced search options to find songs quickly.
-- Automatic Song & Artist Recognition – The system identifies songs and displays relevant details.
-- Download & Offline Listening – Users can download songs and listen without an internet connection.
-- Audio Customization & Equalizer – Advanced sound settings to personalize the listening experience.
+The Musion application offers a number of functionalities:
+- Easy Playlist Creation & Organization – users can create, edit, and manage playlists effortlessly.
+- Music Search & Filtering – advanced search options to find songs quickly.
+- Automatic Song & Artist Recognition – the system identifies songs and displays relevant details.
+- Download & Offline Listening – users can download songs and listen without an internet connection.
+- Audio Customization & Equalizer – advanced sound settings to personalize the listening experience.
 
 ## Research & Methodology
 The development of Musion followed a structured research methodology to ensure it meets user needs and expectations. Key steps include:
