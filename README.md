@@ -2,6 +2,20 @@
 
 Musion is a modern and user-friendly music player application designed to provide an intuitive and enjoyable music experience. The app enables users to effortlessly navigate, manage their playlists, and discover new music while ensuring a seamless experience across mobile and desktop platforms.
 
+## Desktop application
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nejrariizviic/Music-Player---Musion/refs/heads/main/Uploads/44.png" alt="Desk App">
+</p>
+
+
+## Mobile application
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nejrariizviic/Music-Player---Musion/refs/heads/main/Uploads/5.png" alt="Mobile App">
+</p>
+
+
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Design & Development](#design--development)
